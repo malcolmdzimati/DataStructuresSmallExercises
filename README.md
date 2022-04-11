@@ -1,2 +1,2 @@
 # DataStructuresSmallExercises
-Data Structures applied in Java(Course Work)
+Data Structures applied done in Java(Course Work)
